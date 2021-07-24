@@ -1,0 +1,57 @@
+C:\Users\ASUS\source\repos\RPD\RPD Server\bin\Debug\RPD Server.exe.config
+C:\Users\ASUS\source\repos\RPD\RPD Server\bin\Debug\RPD Server.exe
+C:\Users\ASUS\source\repos\RPD\RPD Server\bin\Debug\RPD Server.pdb
+C:\Users\ASUS\source\repos\RPD\RPD Server\obj\Debug\RPD_Server.Form1.resources
+C:\Users\ASUS\source\repos\RPD\RPD Server\obj\Debug\RPD_Server.Form2.resources
+C:\Users\ASUS\source\repos\RPD\RPD Server\obj\Debug\RPD_Server.Properties.Resources.resources
+C:\Users\ASUS\source\repos\RPD\RPD Server\obj\Debug\RPD Server.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\RPD\RPD Server\obj\Debug\RPD Server.exe
+C:\Users\ASUS\source\repos\RPD\RPD Server\obj\Debug\RPD Server.pdb
+C:\Users\ASUS\source\repos\RPD\RPD Server\obj\Debug\RPD_Server.Form3.resources
+C:\Users\ASUS\source\repos\RPD\RPD Server\obj\Debug\RPD Server.csprojAssemblyReference.cache
+C:\Users\trana\Downloads\RPD\RPD Server\bin\Debug\RPD Server.exe.config
+C:\Users\trana\Downloads\RPD\RPD Server\bin\Debug\RPD Server.exe
+C:\Users\trana\Downloads\RPD\RPD Server\bin\Debug\RPD Server.pdb
+C:\Users\trana\Downloads\RPD\RPD Server\obj\Debug\RPD Server.csprojAssemblyReference.cache
+C:\Users\trana\Downloads\RPD\RPD Server\obj\Debug\RPD_Server.Form1.resources
+C:\Users\trana\Downloads\RPD\RPD Server\obj\Debug\RPD_Server.Form2.resources
+C:\Users\trana\Downloads\RPD\RPD Server\obj\Debug\RPD_Server.Properties.Resources.resources
+C:\Users\trana\Downloads\RPD\RPD Server\obj\Debug\RPD Server.csproj.GenerateResource.cache
+C:\Users\trana\Downloads\RPD\RPD Server\obj\Debug\RPD Server.csproj.CoreCompileInputs.cache
+C:\Users\trana\Downloads\RPD\RPD Server\obj\Debug\RPD Server.exe
+C:\Users\trana\Downloads\RPD\RPD Server\obj\Debug\RPD Server.pdb
+C:\Users\trana\Downloads\RPD\RPD Server\obj\Debug\RPD_Server.Form3.resources
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\bin\Debug\RPD Server.exe.config
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\bin\Debug\RPD Server.exe
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\bin\Debug\RPD Server.pdb
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\obj\Debug\RPD Server.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\obj\Debug\RPD_Server.Form1.resources
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\obj\Debug\RPD_Server.Form2.resources
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\obj\Debug\RPD_Server.Form3.resources
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\obj\Debug\RPD_Server.Properties.Resources.resources
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\obj\Debug\RPD Server.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\obj\Debug\RPD Server.exe
+C:\Users\ASUS\Downloads\RPD (2)\RPD\RPD Server\obj\Debug\RPD Server.pdb
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\bin\Debug\RPD Server.exe.config
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\bin\Debug\RPD Server.exe
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\bin\Debug\RPD Server.pdb
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\obj\Debug\RPD Server.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\obj\Debug\RPD_Server.Form1.resources
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\obj\Debug\RPD_Server.Form2.resources
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\obj\Debug\RPD_Server.Form3.resources
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\obj\Debug\RPD_Server.Properties.Resources.resources
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\obj\Debug\RPD Server.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\obj\Debug\RPD Server.exe
+C:\Users\DELL\Downloads\adsa\nhom8\RPD Server\obj\Debug\RPD Server.pdb
+E:\remot\nhom8\RPD Server\bin\Debug\RPD Server.exe.config
+E:\remot\nhom8\RPD Server\bin\Debug\RPD Server.exe
+E:\remot\nhom8\RPD Server\bin\Debug\RPD Server.pdb
+E:\remot\nhom8\RPD Server\obj\Debug\RPD Server.csprojAssemblyReference.cache
+E:\remot\nhom8\RPD Server\obj\Debug\RPD_Server.Form1.resources
+E:\remot\nhom8\RPD Server\obj\Debug\RPD_Server.Form2.resources
+E:\remot\nhom8\RPD Server\obj\Debug\RPD_Server.Form3.resources
+E:\remot\nhom8\RPD Server\obj\Debug\RPD_Server.Properties.Resources.resources
+E:\remot\nhom8\RPD Server\obj\Debug\RPD Server.csproj.GenerateResource.cache
+E:\remot\nhom8\RPD Server\obj\Debug\RPD Server.csproj.CoreCompileInputs.cache
+E:\remot\nhom8\RPD Server\obj\Debug\RPD Server.exe
+E:\remot\nhom8\RPD Server\obj\Debug\RPD Server.pdb

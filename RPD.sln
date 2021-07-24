@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPD Server", "RPD Server\RPD Server.csproj", "{B8498B6A-778C-4431-B312-0F8797FF3838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPD", "RPD\RPD.csproj", "{5361BB72-872A-4E69-BBD5-5AB092F81C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8498B6A-778C-4431-B312-0F8797FF3838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8498B6A-778C-4431-B312-0F8797FF3838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8498B6A-778C-4431-B312-0F8797FF3838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8498B6A-778C-4431-B312-0F8797FF3838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5361BB72-872A-4E69-BBD5-5AB092F81C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5361BB72-872A-4E69-BBD5-5AB092F81C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5361BB72-872A-4E69-BBD5-5AB092F81C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5361BB72-872A-4E69-BBD5-5AB092F81C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4514F23D-736A-4983-9CED-892FDB5E4F20}
+	EndGlobalSection
+EndGlobal
